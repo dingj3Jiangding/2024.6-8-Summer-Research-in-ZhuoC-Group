@@ -1,0 +1,3 @@
+[submodule "MyChisel-template"]
+	path = MyChisel-template
+	url = git@github.com:dingj3JiangDing/MyChisel-template
