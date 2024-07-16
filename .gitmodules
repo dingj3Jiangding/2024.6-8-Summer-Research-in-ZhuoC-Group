@@ -1,3 +1,7 @@
 [submodule "MyChisel-template"]
 	path = MyChisel-template
 	url = git@github.com:dingj3JiangDing/MyChisel-template
+
+[submodule "Approx_S_dir/ApproxSquare"]
+    path = Approx_S_dir/ApproxSquare
+    url = git@github.com:dingj3Jiangding/ApproxSquare.git
