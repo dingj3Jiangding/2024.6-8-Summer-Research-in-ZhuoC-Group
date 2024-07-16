@@ -1,0 +1,19 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/mychisel_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/writeSide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/writeSide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/FIFORegister.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/FIFORegister.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/FIFOSigR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/FIFOSigR$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/FIFOSigR$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/FIFOSigR$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/FIFOSigR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/FIFOSigR.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/readSide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/readSide.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FIFOB/FIFORegister$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/target/scala-2.12/classes/FIFOB/FIFORegister$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

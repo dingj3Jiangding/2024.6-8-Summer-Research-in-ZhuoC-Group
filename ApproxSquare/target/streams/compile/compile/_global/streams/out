@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/src/main/scala/ApproSquare Implement/mux.scala:15:27: not enough arguments for macro method apply: (cond: chisel3.Bool, con: T, alt: T)T in object Mux.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters con, alt.[0m
+[0m[[0m[31merror[0m] [0m[0m                      (Mux(mux_io.sel === 1.U), mux_io.in1, mux_io.in2)) [0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

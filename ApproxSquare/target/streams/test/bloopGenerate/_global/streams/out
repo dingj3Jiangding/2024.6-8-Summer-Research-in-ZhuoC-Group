@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[root-test] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[root-test] Dependencies from configurations List(root)[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'root-test' to '/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_Square/test/.bloop/root-test.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/root-test.json[0m
