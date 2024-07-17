@@ -1,4 +1,8 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ImplementPkg.mux_3_1Test, org.scalatest.tools.Framework$$anon$1@32c57702, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ImplementPkg.comp_test, org.scalatest.tools.Framework$$anon$1@2f0c2849, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ImplementPkg.mux_3_1Test, org.scalatest.tools.Framework$$anon$1@2f0c2849, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcomp_test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompr_3_2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should Pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mmux_3_1Test:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mMux_3_1_a[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
@@ -6,10 +10,11 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mMux_3_1_c[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 3 seconds, 562 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 4 seconds, 526 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImplementPkg.mux_3_1Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplementPkg.comp_test[0m

@@ -2,15 +2,15 @@
     "version": "1.4.0",
     "project": {
         "name": "approxsquare-build-build",
-        "directory": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project",
-        "workspaceDir": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project",
+        "directory": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project",
+        "workspaceDir": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project",
         "sources": [
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/scala",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/scala-2.12",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/scala-2",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/java",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/scala-sbt-1.0",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/target/scala-2.12/sbt-1.0/src_managed/main"
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/scala",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/scala-2.12",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/scala-2",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/java",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/scala-sbt-1.0",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/target/scala-2.12/sbt-1.0/src_managed/main"
         ],
         "dependencies": [
             
@@ -104,11 +104,11 @@
             "/Users/fudijie/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar",
             "/Users/fudijie/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar"
         ],
-        "out": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/.bloop/approxsquare-build-build",
-        "classesDir": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/.bloop/approxsquare-build-build/scala-2.12/sbt-1.0/classes",
+        "out": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/.bloop/approxsquare-build-build",
+        "classesDir": "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/.bloop/approxsquare-build-build/scala-2.12/sbt-1.0/classes",
         "resources": [
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/src/main/resources",
-            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/target/scala-2.12/sbt-1.0/resource_managed/main"
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/src/main/resources",
+            "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/target/scala-2.12/sbt-1.0/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -216,7 +216,7 @@
             "config": {
                 "home": "/Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project"
+                    "-Duser.dir=/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project"
                 ]
             },
             "mainClass": [
@@ -225,11 +225,11 @@
             "runtimeConfig": {
                 "home": "/Library/Java/JavaVirtualMachines/openlogic-openjdk-11.jdk/Contents/Home",
                 "options": [
-                    "-Duser.dir=/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project"
+                    "-Duser.dir=/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project"
                 ]
             },
             "classpath": [
-                "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/project/project/.bloop/approxsquare-build-build/scala-2.12/sbt-1.0/classes",
+                "/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/project/project/.bloop/approxsquare-build-build/scala-2.12/sbt-1.0/classes",
                 "/Users/fudijie/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.6.0/sbt-bloop_2.12_1.0-1.6.0.jar",
                 "/Users/fudijie/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.0.2/bloop-config_2.12-2.0.2.jar",
                 "/Users/fudijie/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/plokhotnyuk/jsoniter-scala/jsoniter-scala-core_2.12/2.4.0/jsoniter-scala-core_2.12-2.4.0.jar",

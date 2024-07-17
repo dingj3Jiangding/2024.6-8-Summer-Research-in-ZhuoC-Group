@@ -1,4 +1,10 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/Approx_S_dir/ApproxSquare/src/test/scala/ImplementPkg/mux_test.scala:6:21: imported `mux_3_1` is permanently hidden by definition of class mux_3_1 in package ImplementPkg[0m
-[0m[[0m[33mwarn[0m] [0m[0mimport ImplementPkg.mux_3_1[0m
-[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/src/test/scala/ImplementPkg/sg_test.scala:11:23: value x_xg is not a member of chisel3.Bundle{val x_sg: chisel3.UInt; val y_sg: chisel3.UInt; val output_sg: chisel3.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.sg_io.x_xg.poke(1.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/src/test/scala/ImplementPkg/sg_test.scala:19:23: value x_xg is not a member of chisel3.Bundle{val x_sg: chisel3.UInt; val y_sg: chisel3.UInt; val output_sg: chisel3.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.sg_io.x_xg.poke(0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/fudijie/Learning Material/2024.6-8-Summer-Research-in-ZhuoC-Group/ApproxSquare/src/test/scala/ImplementPkg/sg_test.scala:27:23: value x_xg is not a member of chisel3.Bundle{val x_sg: chisel3.UInt; val y_sg: chisel3.UInt; val output_sg: chisel3.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m            dut.sg_io.x_xg.poke(0.U)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
