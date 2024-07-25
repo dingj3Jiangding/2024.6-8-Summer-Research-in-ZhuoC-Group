@@ -1,11 +1,15 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ImplementPkg.sg_test, org.scalatest.tools.Framework$$anon$1@59def7ad, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[32msg_test:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32msg_prcss[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should Pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 2 seconds, 941 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ImplementPkg.exp_prcssT, org.scalatest.tools.Framework$$anon$1@580a3195, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexp_prcssT:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexp_prcss_normal_1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexp_prcss_normal_2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexp_prcss_special[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 8 seconds, 229 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ImplementPkg.sg_test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ImplementPkg.exp_prcssT[0m

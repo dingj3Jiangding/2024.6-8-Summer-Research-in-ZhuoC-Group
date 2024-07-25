@@ -9,8 +9,8 @@ class mux_3_1 extends Module {
         val in0 = Input(UInt(1.W))
         val in1 = Input(UInt(1.W))
         val in2 = Input(UInt(1.W))
-
         val out = Output(UInt(1.W))
+        
     })
 
     mux_io.out := Mux (mux_io.sel === 0.U, mux_io.in0, 
